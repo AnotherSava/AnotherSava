@@ -1,4 +1,4 @@
-# My Life, Engineered and Open Sourced
+# My Life, Over-Engineered and Open Sourced
 
 While taking a break from the corporate world, I finally have time for all those low-value, low-priority, high-satisfaction projects that aim to make my day-to-day life better — and maybe someone else’s too.  
 Feel free to adopt as-is, reuse the code, or improve it. Feedback is always welcome.
