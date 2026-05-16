@@ -13,7 +13,7 @@ Based on the **build123d** library, this collection includes a variety of parame
 
 ## Developer Tools
 
-- **[ai-agent-dashboard](https://github.com/AnotherSava/ai-agent-dashboard)** — a real-time desktop widget that shows what your AI coding agents are doing — and whether they need your attention
+- **[claude-code-dashboard](https://github.com/AnotherSava/claude-code-dashboard)** — a real-time desktop widget that shows what your Claude Code agents are doing — and whether they need your attention
 - **[claude-code-common](https://github.com/AnotherSava/claude-code-common)** — a collection of handcrafted Claude Code skills (including one to create skills) and other *useful* enhancements designed to improve your result-to-effort ratio
 
 ## Productivity & Desktop Tools
